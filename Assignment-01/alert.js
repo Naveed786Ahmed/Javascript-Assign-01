@@ -34,16 +34,7 @@ alert("Hello Javasript");
 // alert(course);
 
 //Chapter No: 02 > Question No: 05
-// var name = "Pizza";
-// document.write(name);
-// alert(name);
-// var name = "Pizz";
-// alert(name);
-// var name = "Piz";
-// alert(name);
-// var name = "Pi";
-// alert(name);
-// var name = "P";
+// var name = "Pizza \n Pizz \n Piz \n Pi \n P";
 // alert(name);
 
 //Chapter No: 02 > Question No: 06
